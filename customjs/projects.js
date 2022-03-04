@@ -1,6 +1,6 @@
-import { default as webProjects } from '../data/projects/webprojects.js';
-import { default as softwareProjects } from '../data/projects/softwareprojects.js';
-import { default as androidProjects } from '../data/projects/androidprojects.js';
+import { default as dataProjects } from '../data/projects/dataprojects.js';
+import { default as cloudProjects } from '../data/projects/cloudprojects.js';
+import { default as automationProjects } from '../data/projects/automationprojects.js';
 import { default as freelanceProjects } from '../data/projects/freelanceprojects.js';
 
 function populateHTML(items, id) {
@@ -61,7 +61,7 @@ function populateHTML(items, id) {
     }
 }
 
-populateHTML(webProjects, 'web-projects');
-populateHTML(softwareProjects, 'software-projects');
-populateHTML(androidProjects, 'android-projects');
+populateHTML(dataProjects, 'data-projects');
+populateHTML(cloudProjects, 'cloud-projects');
+populateHTML(automationProjects, 'automation-projects');
 populateHTML(freelanceProjects, 'freelance-projects');
