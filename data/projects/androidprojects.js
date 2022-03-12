@@ -1,11 +1,11 @@
 export default [
 	{
-		projectName: "NITW-CSE",
-		image: "images/nitwcse.jpg",
+		projectName: "Data-Analysis",
+		image: "images/VisualisationFinal.png",
 		summary:
-			"The Application display details of Department courses, reference books, research, publication and faculty profile.",
-		preview: "https://github.com/vinaysomawat/NITW-CSE",
-		techStack: ["JAVA", "XML", "Android"],
+			"The culmination of IBM's Python for Data Analysis course through Coursera.",
+		preview: "https://www-stanli.s3.us-east-2.amazonaws.com/VisualisationFinal.png",
+		techStack: ["Python", "IBM Cognos", "Matplotlib"],
 	},
 	{
 		projectName: "CareerHigh-App",
