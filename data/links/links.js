@@ -37,7 +37,7 @@ export default [
 		text: "TryHackMe",
 		color: "black",
 		style: 'width: 80%',
-		imgLink: 'https://www.secjuice.com/content/images/2019/01/TryHackMe-logo---small.png',
+		imgLink: 'https://media.glassdoor.com/sqll/3689231/tryhackme-squareLogo-1623669114115.png',
 	    link: "https://tryhackme.com/p/EmptyBowl108"
 	},
 	{
